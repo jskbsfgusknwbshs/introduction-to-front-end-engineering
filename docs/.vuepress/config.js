@@ -19,9 +19,10 @@ module.exports = {
             ['/10', '10. 重构'],
             ['/11', '11. 微服务'],
             ['/12', '12. Serverless'],
+            ['/13', '13. 前端安全'],
         ],
         displayAllHeaders: true,
-        repo: 'https://github.com/woai3c/introduction-to-front-end-engineering',
+        repo: 'https://github.com/jskbsfgusknwbshs/introduction-to-front-end-engineering',
         repoLabel: '给作者的 Github 点个 star 吧！',
         smoothScroll: true,
     }
